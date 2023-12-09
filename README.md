@@ -1,7 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/xHnRfY9D)
-# CS 3240: UniMap Website 📍
+# UniMap Website 📍
 
-Welcome to the UniMap Repository 👋! Throughout the semester, our team has developed an application that aims to increase visibility regarding how busy locations are around Grounds. UniMap allows users to *Vote* on how busy a location is and view other users' rating. Users may request to add locations onto the public map by leveraging the *Create* feature. By incorporating Google Maps API, Team A-08 has successfully implemented an exciting Django-Heroku web application. Any questions regarding this project should be directed to the developers' emails.
+Welcome to the UniMap Repository 👋! Throughout the semester, our team has developed an application that aims to increase visibility regarding how busy locations are around Grounds. UniMap allows users to *Vote* on how busy a location is and view other users' rating. Users may request to add locations onto the public map by leveraging the *Create* feature. By incorporating Google Authentiction and the Google Maps API, Team A-08 has successfully implemented an exciting Django-Heroku web application. Any questions regarding this project should be directed to the developers' emails.
 
 ## Features 🔍
 - **Vote**: Users may submit their vote indicating how busy a location is.
