@@ -30,7 +30,11 @@ With its innovative features, UniMap opens up a number of possibilities for stud
 ### 3-Hour Timer: Balancing Accuracy and Privacy ⏱️
 - **Real-Time Accuracy**: The unique 3-hour timer feature ensures that UniMap reflects the current state of locations, providing accurate and up-to-date information for users. If a user tries to vote again during this period, their new vote will override their previously casted vote.
 - **Privacy Considerations**: By automatically clearing votes after three hours, UniMap maintains user privacy and prevents outdated data from influencing decisions.
+<div align=center>
+<img width="450" alt="Screenshot 2024-05-08 at 11 39 15 PM" src="https://github.com/maseelshah22/UniMap/assets/98069253/09a4fe2c-353d-4ab4-bd2b-2960a3f869e0">
 
+<img width="450" alt="Screenshot 2024-05-08 at 11 44 17 PM" src="https://github.com/maseelshah22/UniMap/assets/98069253/12dc317a-25c7-4190-90d2-0fdc74362bf0">
+</div>
 
 ## Developers 🖥️
 
